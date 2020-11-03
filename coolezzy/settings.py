@@ -79,7 +79,6 @@ DATABASES = {
         'NAME': 'icecoolezz',
         'USER': 'moringa',
         'PASSWORD':'test',
-        ''
     }
 }
 
